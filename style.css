@@ -131,7 +131,6 @@
             content: "・";
         }
 
-        /* Content area */
         .content {
             padding: 15px;
         }
@@ -156,7 +155,8 @@
         }
 
         .gazo {
-            heigh: 40px;
+            height: 40px !important;
+            witdh: auto !important;
         }
 
         .photo {
@@ -211,7 +211,6 @@
             font-size: 11px;
         }
 
-        /* Footer simple */
         footer {
             background-color: #99ccff;
             color: #003366;
