@@ -154,9 +154,12 @@
             padding: 12px;
         }
 
-        .gazo {
-            height: 40px !important;
+        .photo img.gazo {
+            height: 150px !important;
             width: auto !important;
+            display: grid;
+            align-items: center;              
+            gap: 10px;    
         }
 
         .photo {
